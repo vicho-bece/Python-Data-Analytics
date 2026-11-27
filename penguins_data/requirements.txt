@@ -1,4 +1,6 @@
 pandas
 numpy
 matplotlib.pyplot
+matplotlib.colors
+matplotlib.cm
 sklearn.cluster
